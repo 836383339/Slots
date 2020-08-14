@@ -1,0 +1,2 @@
+# Slots
+Slots PlayFab CloudScript
